@@ -1,0 +1,4 @@
+pytelegrambotapi
+pandas
+apscheduler
+openpyxl
